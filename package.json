@@ -1,12 +1,12 @@
 {
   "name": "byteweb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "output/main.js",
   "types": "output/main.d.ts",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "rollup -c",
     "preview": "vite preview"
   },
   "devDependencies": {
