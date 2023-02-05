@@ -1,7 +1,7 @@
 # Byteweb
 A minimalist javascript compiler for the Web.
 
-This library "compiles" your javascript code into QuickJS bytecode and adds a small layer of protection on top of your javascript code.
+This library "compiles" your javascript code into QuickJS bytecode, and by doing so, adds a small layer of protection on top of your javascript code.
 
 Yes, you can run this in the browser thanks to WebAssembly.
 
