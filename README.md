@@ -57,4 +57,6 @@ You can invoke code or get data from the host using `host.run(code:string):strin
 - Strings are visible, you can use gnirt or terser for better protection.
 
 ## Thanks to
-Bytenode - Inspiration
+- Bytenode - Inspiration
+- quickjs-eval - QJS part template
+- quickjs - Awesome javascript runtime

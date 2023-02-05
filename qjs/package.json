@@ -10,21 +10,6 @@
     "test": "node test/test.js",
     "build": "./makefile && rollup --config rollup.config.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tangshuang/quickjs-eval.git"
-  },
-  "keywords": [
-    "quickjs",
-    "eval",
-    "javascript"
-  ],
-  "author": "tangshuang",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tangshuang/quickjs-eval/issues"
-  },
-  "homepage": "https://github.com/tangshuang/quickjs-eval#readme",
   "devDependencies": {
     "rollup": "^2.60.2",
     "rollup-plugin-commonjs": "^10.1.0"
